@@ -51,7 +51,7 @@ const WordDisplay: React.FC<{ word: string[]; isGameActive: boolean }> = ({
       <div className="text-center py-12">
         <div className="text-4xl font-bold text-[hsl(var(--muted-foreground))] mb-4"></div>
         <p className="text-xl text-[hsl(var(--muted-foreground))]">
-          Clique em "Começar" para iniciar o jogo!
+          Clique em &quot;Começar&quot; para iniciar o jogo!
         </p>
       </div>
     );
